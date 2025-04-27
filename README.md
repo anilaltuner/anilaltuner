@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil
 
-Engineering Lead at Firstbatch
+Founding Engineer at Merx
 
 Multi-Agent Architectures, Backend Engineering, Distributed Systems, P2P Networks 
 
