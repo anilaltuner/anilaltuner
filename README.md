@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil
 
-Founding Engineer at Merx
+Senior AI Engineer at Adclear
 
 Multi-Agent Architectures, Backend Engineering, Distributed Systems, P2P Networks 
 
